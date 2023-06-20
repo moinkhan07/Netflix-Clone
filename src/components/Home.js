@@ -16,7 +16,156 @@ const Home = () => {
         <img src="https://cdn.colombia.com/sdi/2022/01/12/spider-man-no-way-home-version-digital-fecha-de-lanzamiento-sony-marvel-studios-986933.jpg" />
       </div>
     </Carousel>
-
+     
+     <h2 className="headline">Popular on Netflix</h2>
+     <Carousel autoPlay={true} infiniteLoop={false} interval={3000} showThumbs={false} showIndicators={false}>
+      <div className="listofmovies">
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     </div>
+     <div className="listofmovies">
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     </div>
+     </Carousel>
+     <h2 className="headline">Trending Now</h2>
+     <Carousel autoPlay={true} infiniteLoop={false} interval={3000} showThumbs={false} showIndicators={false}>
+      <div className="listofmovies">
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     </div>
+     <div className="listofmovies">
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     </div>
+     </Carousel>
+     <h2 className="headline">Continue Watching</h2>
+     <Carousel autoPlay={true} infiniteLoop={false} interval={3000} showThumbs={false} showIndicators={false}>
+      <div className="listofmovies">
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     </div>
+     <div className="listofmovies">
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     </div>
+     </Carousel>
+     <h2 className="headline">Live News</h2>
+     <Carousel autoPlay={true} infiniteLoop={false} interval={3000} showThumbs={false} showIndicators={false}>
+      <div className="listofmovies">
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     </div>
+     <div className="listofmovies">
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     <div>
+       <img src="https://images.thedirect.com/media/article_full/tony-stark-snap.jpg" />
+     </div>
+     </div>
+     </Carousel>
+     <h2 className="headline">Tv Shows</h2>
      <Carousel autoPlay={true} infiniteLoop={false} interval={3000} showThumbs={false} showIndicators={false}>
       <div className="listofmovies">
      <div>
